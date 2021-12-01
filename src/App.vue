@@ -18,6 +18,8 @@ export default {
 
 <style>
 body{
-  background-color: rgb(185, 185, 185);
+  margin: 0;
+  padding: 0;
+  background-color: rgb(224, 220, 220) !important;
 }
 </style>
